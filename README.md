@@ -1,5 +1,5 @@
 # DesignSimilarityDetector
-A CNN AI model for design validation using Generative AI techniques, employed Matplotlib for data visualization, ensuring efficient training and validation across platforms 
+Alaska Innovation Challenge 
 
 The model enables customers to upload design preferences, automating design validation to ensure only high-confidence designs proceed to production 
 Design Matcher is a project that compares two design photos using a Convolutional Neural Network (CNN). It helps identify similarities between design images, which can be useful in various applications such as image matching, style verification, and pattern recognition.
